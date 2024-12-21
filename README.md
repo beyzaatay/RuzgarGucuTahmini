@@ -1,4 +1,4 @@
-# RuzgarGucuTahmini
+# Türbülans Verileriyle Rüzgar Türbinlerinden Dinamik Güç Tahmini
 
 Derin Öğrenme Yöntemleri ile Rüzgar Gücü Tahmini
 
